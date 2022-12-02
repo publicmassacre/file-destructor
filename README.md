@@ -23,7 +23,7 @@ cli: este modo esta echo para  sistemas que solamente usan terminal, lo mismo qu
 
 volver: volver.
 
-retry: volver a intentar con otro archivo con el mismo modo seleccionado anteriormente.
+retry: volver a intentar con otro archivo pero con la misma opcion(multi, one) seleccionada con anterioridad.
 ## Como funciona?
 Este simple script lo que hace es vaciar el contenido del archivo e escribirle texto random y luego borrarlo, eso 37 veces y asi al intentar recuperar el archivo el contenido es otro!!!! :OOOO
 
