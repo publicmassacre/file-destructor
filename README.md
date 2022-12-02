@@ -19,7 +19,7 @@ one: como el anterior es para multiples archivos este es  solamente uno.
 
 gui: en este modo te abre una ventana para seleccionar los archivos, para usarlo selecciona la opcion(multi o one) y luego escribe gui.
 
-cli: este modo esta echo para  sistemas que solamente usan terminal, lo mismo que el anterior para usarlo luego que elegir la opcion escribe cli.
+cli: este modo esta echo para  sistemas que solamente usan terminal, lo mismo que el anterior para usarlo luego de elegir la opcion, escribe cli.
 
 volver: volver.
 
